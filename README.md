@@ -8,7 +8,9 @@ in terminal
 >git co https://github.com/perrydevx/cab-trip-data.git 
 - cd to project directory, build and run
 > cd cab
+
 >./gradlew build
+
 >./gradlew bootRun
 ##### Simple command line client that will consume the APIs provided by the server 
 - End point to query cab trips (cached)
